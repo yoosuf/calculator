@@ -1,0 +1,13 @@
+{
+    "name": "yoosuf/calculator",
+    "description": "This is  a demo package will do some calculations",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoosuf",
+            "email": "mayoosuf@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
